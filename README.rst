@@ -16,7 +16,7 @@ To use the script from the command line:
 .. code-block:: bash
 
     $ namesfr
-    John Powell
+    Alexandre Crouzier
 
 Python Package Usage
 ~~~~~~~~~~~~~~~~~~~~
