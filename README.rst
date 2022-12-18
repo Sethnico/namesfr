@@ -1,5 +1,5 @@
 namesfr
-=====
+=======
 
 Random french name generator
 

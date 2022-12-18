@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "namesfr"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
-  { name="Nicolas Renard", email="nicolas@renard.in" },
+  { name="Nicolas Renard", email="" },
 ]
 description = "Random french name generator"
 readme = "README.rst"
