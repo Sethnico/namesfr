@@ -7,7 +7,7 @@ Random french name generator
 Usage
 -----
 
-Names can be used as a command line utility or imported as a Python package.
+Namesfr can be used as a command line utility or imported as a Python package.
 
 Command Line Usage
 ~~~~~~~~~~~~~~~~~~
@@ -27,13 +27,13 @@ Here are examples of all current features:
     >>> import namesfr
     >>> namesfr.get_full_name()
     u'Aurélien Germond'
-    >>> names.get_full_name(gender='male')
+    >>> namesfr.get_full_name(gender='male')
     u'Frédéric Castan'
-    >>> names.get_first_name()
+    >>> namesfr.get_first_name()
     'Thierry'
-    >>> names.get_first_name(gender='female')
+    >>> namesfr.get_first_name(gender='female')
     'Iris'
-    >>> names.get_last_name()
+    >>> namesfr.get_last_name()
     'Faust'
 
 
